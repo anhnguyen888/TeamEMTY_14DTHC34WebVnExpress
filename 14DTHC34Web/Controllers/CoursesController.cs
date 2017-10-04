@@ -14,7 +14,7 @@ namespace _14DTHC34Web.Controllers
         {
             dbContext = new ApplicationDbContext();
         }
-        // GET: Courses
+        // Dev1 Dev1 Dev1 Dev1 Dev1 Course Conflict
         public ActionResult CreateCourse()
         {
             var courseViewModel = new CourseViewModel()
