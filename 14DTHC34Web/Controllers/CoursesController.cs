@@ -13,8 +13,10 @@ namespace _14DTHC34Web.Controllers
         public CoursesController()
         {
             dbContext = new ApplicationDbContext();
-        }
+        }        
         // Dev1 Dev1 Dev1 Dev1 Dev1 Course Conflict
+        //Dev2 Source Code
+        //ABC
         public ActionResult CreateCourse()
         {
             var courseViewModel = new CourseViewModel()
