@@ -14,10 +14,8 @@ namespace _14DTHC34Web.Controllers
         {
             dbContext = new ApplicationDbContext();
         }
-        /// <summary>
-        /// Create New Course
-        /// </summary>
-        /// <returns></returns>
+        //Dev2 Source Code
+        //ABC
         public ActionResult CreateCourse()
         {
             var courseViewModel = new CourseViewModel()
